@@ -1,2 +1,2 @@
 # Cron-Expression
-React component for cron expresion
+React component for cron expression
